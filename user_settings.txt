@@ -1,0 +1,1 @@
+[{"PlayerName": "Trump", "score": 360, "awards": ["OR", "NV", "NI"]}, {"PlayerName": "Clinton", "score": 200, "awards": ["IN", "TX", "MI"]}]
